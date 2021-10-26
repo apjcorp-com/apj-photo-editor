@@ -15,8 +15,8 @@ with the ability to scale and rotate objects
   s.swift_version    = '5.0'
 
   s.ios.deployment_target = '9.0'
-  s.source_files = "iOSPhotoEditor/**/*.{swift}"
+  s.source_files = "APJPhotoEditor/**/*.{swift}"
   s.exclude_files = ""
-  s.resources = "iOSPhotoEditor/**/*.{png,jpeg,jpg,storyboard,xib,ttf}"
+  s.resources = "APJPhotoEditor/**/*.{png,jpeg,jpg,storyboard,xib,ttf}"
 
 end
